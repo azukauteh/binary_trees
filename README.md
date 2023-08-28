@@ -8,14 +8,17 @@
 
 Welcome to the **Binary Trees in C - Project 0x1D**! This project dives into the realm of binary trees using the C programming language. Binary trees are critical data structures with a wide range of applications, from efficient searching to expression parsing.
 
+```bash
 
-
-      5
+      1
      / \
-    3   8
+    2   3
    / \   \
-  1   4   10
+  4   5   6
+ / \
+7   8
 
+```
 
 ## Table of Contents
 
@@ -59,6 +62,7 @@ To embark on this binary tree journey:
 
 ```bash
 git clone https://github.com/azukauteh/binary_trees.git
+
 cd binary_trees
 ```
 
@@ -94,7 +98,7 @@ Contributions are heartily welcomed! Should you possess enhancements, bug fixes,
 - Data structures
 
 Basic Binary Tree
-
+```bash
 /**
  * struct binary_tree_s - Binary tree node
  *
@@ -118,7 +122,7 @@ AVL Tree
 typedef struct binary_tree_s avl_t;
 Max Binary Heap
 typedef struct binary_tree_s heap_t;
-
+```
 
 ## License
 
