@@ -10,10 +10,11 @@ Welcome to the **Binary Trees in C - Project 0x1D**! This project dives into the
 
 
 
-<p align="center">
-  <img src="binary_tree_logo.png" alt="Binary Tree Logo">
-</p>
-
+      5
+     / \
+    3   8
+   / \   \
+  1   4   10
 
 
 ## Table of Contents
